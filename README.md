@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🧔‍♂️ I'm a fullstack developer: familiar with HTML/CSS/JS, Angular, React, Express, .Net Core, Flutter
+- 👯 I’m currently looking to contribute to open source projects
+- 🌱 I’m currently a computer science and engineering undergraduate at University of Moratuwa
+- 📧 How to reach me: movinpinsara@gmail.com
+- 📫 Connect me on [Linkedin](https://www.linkedin.com/in/movin-silva-9b8ab01b2)
+
 <!--
 **movinsilva/movinsilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
