@@ -4,6 +4,7 @@
 - 🌱 I’m currently a computer science and engineering undergraduate at University of Moratuwa
 - 📧 How to reach me: movinpinsara@gmail.com
 - 📫 Connect me on [Linkedin](https://www.linkedin.com/in/movin-silva-9b8ab01b2)
+- ⚡Visit me at [Website](https://movinsilva.github.io/portfolio_web)
 
 <!--
 **movinsilva/movinsilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
