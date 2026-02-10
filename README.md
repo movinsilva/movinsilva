@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-- 🧔‍♂️ I'm a fullstack developer: familiar with HTML/CSS/JS/TS/Java/Python/C#, Angular, React, Node, Express, .Net Core, Flutter
-- 🌱 I’m currently a computer science and engineering undergraduate at University of Moratuwa
+- 🧔‍♂️ I'm a Software Engineer, DevOps: familiar with HTML/CSS/JS/TS/Java/Python/C#, Angular, React, Node, Express, .Net Core, Flutter
+- 🌱 I’m a graduate of computer science and engineering at University of Moratuwa
 - 📧 How to reach me: movinpinsara@gmail.com
-- 📫 Connect me on [Linkedin](https://www.linkedin.com/in/movin-silva-9b8ab01b2)
+- 📫 Connect me on [Linkedin](https://www.linkedin.com/in/movin-silva)
 - ⚡Visit me at [My Web](https://movinsilva.github.io/portfolio_web)
 
 <!--
