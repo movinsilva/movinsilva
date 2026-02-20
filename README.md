@@ -1,10 +1,11 @@
 ### Hi there 👋
 
-- 🧔‍♂️ I'm a Software Engineer, DevOps: familiar with HTML/CSS/JS/TS/Java/Python/C#, Angular, React, Node, Express, .Net Core, Flutter
+- 🧔‍♂️ I'm a Software Engineer, DevOps | Kubestronaut (CKS, CKA, CKAD, KCNA, KCSA) | AWS Solutions Architect Associate 
+- 🔭 HTML/CSS/JS/TS/Java/Python/C#, Angular, React, Node, Express, .Net Core, Flutter
 - 🌱 I’m a graduate of computer science and engineering at University of Moratuwa
 - 📧 How to reach me: movinpinsara@gmail.com
 - 📫 Connect me on [Linkedin](https://www.linkedin.com/in/movin-silva)
-- ⚡Visit me at [My Web](https://movinsilva.github.io/portfolio_web)
+- ⚡ Visit me at [My Web](https://movinsilva.github.io/portfolio_web)
 
 <!--
 **movinsilva/movinsilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
